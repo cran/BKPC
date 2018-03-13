@@ -1,5 +1,5 @@
-0f09180e8a6f0885d8a157539b567751 *DESCRIPTION
-a2b27bfe0ed7c30a85f75cca11067821 *NAMESPACE
+750fd91b640700d1c9e7e03507070491 *DESCRIPTION
+9cd41dfeabbb7beba3651eb8eda94b28 *NAMESPACE
 8baff2b02e4c65809f6d28752a5de094 *R/bkpc.R
 684787a88feab21704761369efea4a98 *R/bkpc.default.R
 e06c791bb2b8bd6bb8a6b90d932894d5 *R/bkpc.kern.R
@@ -10,14 +10,15 @@ d7afdb4a5044940d4bef1f43338002b3 *R/kPCA.R
 8860cdfdf5afb99fa142827a81e5b8c3 *R/kPCA.default.R
 172c04d1ba401b2df6b29c84d90309b4 *R/kPCA.kern.R
 6158f998c62a90f15142bf5bc99024b2 *R/kPCA.kernelMatrix.R
-12c6fd1ad999d2e194e18af3a0b9c31e *R/marginalRelevance.R
+0d862d4ef92b000fce03f68bc6f445ac *R/marginalRelevance.R
 896437a7a97ba05e72f6615b3de187b6 *R/plot.bkpc.R
 3b95767ff9f8d28c11a74e645f812367 *R/plot.marginalRelevance.R
 c8ab9702e4a3e7f1472880b6346cd0fb *R/predict.bkpc.R
 fcdb0858f80f8b3c733ca38ce9792ed4 *R/predict.kPCA.R
 64e63e0abd60aed9e3f69588bc76c038 *R/predictMultinomSamples.R
 c50e333c3317f2a93f01eab64d95c9b6 *R/summary.bkpc.R
-824bfe35b35c02fdd92aa849c7967bec *data/microarray.rda
+f47d6c906ef1461a74197056db9f5915 *README.md
+41d5c090cdb3721d0d6c64f0b3a58468 *data/microarray.rda
 6ecaf9d84e050e436aa607dc3cd1ae7b *man/BKPC-package.Rd
 75348607b5d2ae7cf3462c8a3f8b31d8 *man/bkpc.Rd
 8debcfaeeb03bc2323dd729bc758fc8d *man/gaussKern.Rd
@@ -28,6 +29,7 @@ fd9d753a1d8dc84c8d299fc6638d73f1 *man/plot.bkpc.Rd
 473d6fa4061d9192488a6233c577b32d *man/plot.marginalRelevance.Rd
 85064cc75cf13920f1cac25e6c622b94 *man/predict.bkpc.Rd
 49b89e0d828ebf1f0d0ee31c5d2d6a8e *man/summary.bkpc.Rd
+00d0ba2cfd43599940128cae16c757bd *src/BKPC_init.c
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars.win
 9b16ff2d65744b3aa51ecca711ad6534 *src/getKPCs.c
